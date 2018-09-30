@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "TestSwiftPod"
   s.version      = "0.0.1"
-  s.summary      = "联发科几点睡了房间里的刷卡缴费快递费监考老师"
+  s.summary      = "These will help people to find your library, and whilst it"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-	快乐番薯空间打开了反馈跨境电商六块腹肌卡兰蒂斯会计分录
+	These will help people to find your library, and whilst itThese will help people to find your library, and whilst it
                    DESC
 
   s.homepage     = "https://github.com/attackers/"
@@ -53,7 +53,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "OS X10_12_6" => "lf@mifengs.com" }
+    s.author             = { "attacker" => "305296172@qq.com" }
   # Or just: s.author    = "OS X10_12_6"
   # s.authors            = { "OS X10_12_6" => "lf@mifengs.com" }
   # s.social_media_url   = "http://twitter.com/OS X10_12_6"
@@ -66,7 +66,7 @@ Pod::Spec.new do |s|
 
   # s.platform     = :ios
   # s.platform     = :ios, "5.0"
-    s.swift_vertion = '3.3'
+#    s.swift_version = '0.0.1'
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
   # s.osx.deployment_target = "10.7"
