@@ -13,6 +13,7 @@
 		58CB8C2E2160AC9100344888 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58CB8C2D2160AC9100344888 /* Assets.xcassets */; };
 		58CB8C312160AC9100344888 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58CB8C2F2160AC9100344888 /* LaunchScreen.storyboard */; };
 		58CB8C3A2160ACC800344888 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58CB8C392160ACC800344888 /* TestView.swift */; };
+		58CB8C3C2160B0FF00344888 /* TestSwiftPod.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 58CB8C3B2160B0FF00344888 /* TestSwiftPod.podspec */; };
 		9D0DD232614BAF32DEE711BC /* Pods_TestSwiftPod.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8503BE39788899F0C58CB2E2 /* Pods_TestSwiftPod.framework */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 		58CB8C302160AC9100344888 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58CB8C322160AC9100344888 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		58CB8C392160ACC800344888 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
+		58CB8C3B2160B0FF00344888 /* TestSwiftPod.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TestSwiftPod.podspec; sourceTree = "<group>"; };
 		8503BE39788899F0C58CB2E2 /* Pods_TestSwiftPod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestSwiftPod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		892BD68B2B758F9321F5179C /* Pods-TestSwiftPod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestSwiftPod.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestSwiftPod/Pods-TestSwiftPod.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -53,6 +55,7 @@
 		58CB8C1A2160AC8000344888 = {
 			isa = PBXGroup;
 			children = (
+				58CB8C3B2160B0FF00344888 /* TestSwiftPod.podspec */,
 				58CB8C252160AC8000344888 /* TestSwiftPod */,
 				58CB8C242160AC8000344888 /* Products */,
 				80E143CFC1860547367A72FD /* Pods */,
@@ -158,6 +161,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				58CB8C3C2160B0FF00344888 /* TestSwiftPod.podspec in Resources */,
 				58CB8C312160AC9100344888 /* LaunchScreen.storyboard in Resources */,
 				58CB8C2E2160AC9100344888 /* Assets.xcassets in Resources */,
 				58CB8C2C2160AC8000344888 /* Main.storyboard in Resources */,
